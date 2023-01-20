@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+}
+
+* {
+    background-color: rgb(34, 34, 34);
+    color: rgb(255, 247, 247);
+}
+
+body {
+    margin: 0;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    width: calc(100vw - 20px - 20px);
+    height: 10vh;
+    padding: 20px;
+    font-size: 2.5em;
+    border: none;
+    background: rgb(118, 15, 155) !important;
+    outline: none;
+}
+
+div { 
+width: calc(100vw - 20px - 20px);
+height: (90vh - 20px - 20px);
+padding:  20px;
+font-size: 2.5em
+}
